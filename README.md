@@ -23,6 +23,12 @@ The CRoss Industry Standard Process for Data Mining (CRISP-DM).
 - Detailed documentation outlining methodology, data sources, and analysis results.
 - Interactive visualizations in Power BI showcasing funding trends and key insights.
 
+### Notebook preview on anaconda cloud
+
+- Plotly visualizations are visible
+
+![customer_churn_prediction.ipynb](https://anaconda.cloud/share/notebooks/a796062d-e372-42f9-9575-9c19b2bf266e/preview)
+
 ### PowerBI Dashboard
 
 ![Dashboard](/screenshots/dashboard.png)
@@ -30,6 +36,7 @@ The CRoss Industry Standard Process for Data Mining (CRISP-DM).
 ## Technologies Used
 
 - Anaconda
+- PowerBI
 - Python
 - Pandas
 - NumPy
