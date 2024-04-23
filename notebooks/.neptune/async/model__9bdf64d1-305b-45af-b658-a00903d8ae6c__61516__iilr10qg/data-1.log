@@ -1,0 +1,4 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "LogisticRegression Churn Prediction Model"}, "version": 1, "at": 1713837714.6227615}
+{"obj": {"type": "AssignFloat", "path": ["model", "size_limit"], "value": 7.09}, "version": 2, "at": 1713837714.628749}
+{"obj": {"type": "AssignString", "path": ["model", "size_units"], "value": "KB"}, "version": 3, "at": 1713837714.628749}
+{"obj": {"type": "UploadFile", "path": ["model", "signature"], "ext": "joblib", "file_path": "c:\\Users\\hp\\Desktop\\gab\\Data Analyst\\Azubi Africa\\Career Accelerator\\LP2 Customer Churn Prediction\\personal\\telco_customer_churn_prediction\\models\\joblib\\LogisticRegression.joblib", "tmp_file_name": null, "clean_after_upload": false}, "version": 4, "at": 1713837714.628749}
