@@ -8,10 +8,7 @@ This repository contains data analysis, insights, and machine learning modelling
 
 ## Key Objectives
 
-- Analyze funding trends and dynamics within the Indian start-up ecosystem.
-- Examine sector-wise distribution of funding and geographical trends.
-- Identify prominent investors and their impact on start-up funding.
-- Provide valuable insights to inform strategic decision-making for investors, entrepreneurs, and stakeholders.
+The primary objective of this project is to develop a classification model for churn analysis to aid in customer retention efforts. Churn analysis focuses on predictingwhether customers are likely to leave or continue their relationship with the company. By identifying customers at risk of churning, the company can take proactivemeasures to retain them, thus increasing revenue and profit margins
 
 ## Framework
 
@@ -25,9 +22,7 @@ The CRoss Industry Standard Process for Data Mining (CRISP-DM).
 
 ### Notebook preview on anaconda cloud
 
-- Plotly visualizations are visible
-
-[customer_churn_prediction.ipynb](https://anaconda.cloud/share/notebooks/a796062d-e372-42f9-9575-9c19b2bf266e/preview)
+- [Preview customer_churn_prediction.ipynb](https://anaconda.cloud/share/notebooks/a796062d-e372-42f9-9575-9c19b2bf266e/preview): Plotly visualizations are visible.
 
 ### PowerBI Dashboard
 
