@@ -22,7 +22,7 @@ The CRoss Industry Standard Process for Data Mining (CRISP-DM).
 
 ### Notebook preview on anaconda cloud
 
-- [Preview customer_churn_prediction.ipynb](https://anaconda.cloud/share/notebooks/a796062d-e372-42f9-9575-9c19b2bf266e/preview): Plotly visualizations are visible.
+- [Preview customer_churn_prediction.ipynb](https://anaconda.cloud/share/notebooks/87e6c6f2-cd09-42a3-9641-e41a29ceeb51/preview): Plotly visualizations are visible.
 
 ### PowerBI Dashboard
 
